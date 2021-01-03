@@ -2,3 +2,5 @@ venv/
 db_data/
 *.pyc
 .env
+.idea
+_static
